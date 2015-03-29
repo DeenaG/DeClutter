@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DeClutter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- main screen -->
+    <string name="current_progress">Current Progress</string>
+    <string name="initial_current_progress">0</string>
+    <string name="goal">Goal</string>
+    <string name="initial_goal">0</string>
+    <string name="items_to_goal">You have ___ more items to meet your overall goal.</string>
+    <string name="percent_to_goal">You are ___% towards your goal</string>
+    <string name="items_to_tracking_goal">You have ___ items to stay on track for your ___ goal</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="set_goal_button">Set Goal</string>
+
+</resources>
